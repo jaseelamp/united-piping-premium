@@ -1,0 +1,124 @@
+[
+  {
+    "id": "carbon-steel",
+    "name": "Carbon Steel",
+    "overview": "A core material family across the published pipe, flange, and fitting portfolio. Selection depends on the specified service conditions.",
+    "relatedProducts": [
+      "pipes",
+      "flanges",
+      "fittings"
+    ],
+    "grades": [
+      "API 5L B, X42, X52, X60, X65, X70, X80 (line pipes)",
+      "A105; A350 LF2/LF6 (flange references)"
+    ],
+    "standards": [
+      "ASTM A106",
+      "ASTM A53",
+      "ASTM A333",
+      "API 5L"
+    ],
+    "applications": []
+  },
+  {
+    "id": "stainless-steel",
+    "name": "Stainless Steel",
+    "overview": "Austenitic stainless material references span piping components. Confirm the grade, product form, and project requirements together.",
+    "relatedProducts": [
+      "pipes",
+      "flanges",
+      "fittings"
+    ],
+    "grades": [
+      "304/304L",
+      "316/316L",
+      "321",
+      "347",
+      "904/904L (pipes; designation requires review)"
+    ],
+    "standards": [
+      "ASTM A182 (flanges / forged fittings)",
+      "ASTM A403 (wrought fittings)"
+    ],
+    "applications": []
+  },
+  {
+    "id": "duplex-stainless-steel",
+    "name": "Duplex Stainless Steel",
+    "overview": "Duplex material references are included in the pipe and flange range and in offshore sourcing requirements.",
+    "relatedProducts": [
+      "pipes",
+      "flanges"
+    ],
+    "grades": [
+      "UNS S31803",
+      "UNS S32205",
+      "ASTM A182 F51 (flanges)"
+    ],
+    "standards": [
+      "ASTM A182 (flanges)"
+    ],
+    "applications": []
+  },
+  {
+    "id": "super-duplex-stainless-steel",
+    "name": "Super Duplex Stainless Steel",
+    "overview": "The published pipe range includes super duplex references. Exact product and grade availability requires technical confirmation.",
+    "relatedProducts": [
+      "pipes"
+    ],
+    "grades": [
+      "UNS S32750/S32760"
+    ],
+    "standards": [],
+    "applications": []
+  },
+  {
+    "id": "low-alloy-steel",
+    "name": "Low Alloy Steel",
+    "overview": "Project-specific alloy requirements are evaluated against product form, service conditions, and manufacturer capability.",
+    "relatedProducts": [],
+    "grades": [],
+    "standards": [],
+    "applications": []
+  },
+  {
+    "id": "high-alloy-steel",
+    "name": "High Alloy Steel",
+    "overview": "High alloy pipes and specialty material fittings form part of the published portfolio. Detailed grades require confirmation.",
+    "relatedProducts": [
+      "pipes",
+      "fittings"
+    ],
+    "grades": [],
+    "standards": [],
+    "applications": []
+  },
+  {
+    "id": "nickel-alloys",
+    "name": "Nickel Alloys",
+    "overview": "Discuss your specified nickel alloy, product form, and operating conditions with the technical team.",
+    "relatedProducts": [],
+    "grades": [],
+    "standards": [],
+    "applications": []
+  },
+  {
+    "id": "chrome-moly-materials",
+    "name": "Chrome Moly Materials",
+    "overview": "Share the governing project specification and material grade for a technical sourcing review.",
+    "relatedProducts": [],
+    "grades": [],
+    "standards": [],
+    "applications": []
+  },
+  {
+    "id": "clad-materials",
+    "name": "Clad Materials",
+    "overview": "Cladding, base material, and interface requirements need a project-specific technical review.",
+    "relatedProducts": [],
+    "grades": [],
+    "standards": [],
+    "applications": []
+  }
+]

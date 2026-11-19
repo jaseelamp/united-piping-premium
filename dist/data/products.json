@@ -1,0 +1,358 @@
+[
+  {
+    "name": "Pipes",
+    "sections": {
+      "Product families": "Carbon Steel Pipes\n\nAustenitic Stainless Steel Pipes\n\nDuplex and Super Duplex Stainless Steel Pipes\n\nHigh Alloy Pipes\n\nCarbon Steel Line Pipes\n\nCarbon Steel Process Pipes\n\nLow-Temperature Carbon Steel Pipes",
+      "Technical examples": "Carbon steel seamless pipes: 1/2\"\u201324\"\n\nCarbon steel welded pipes: 2\"\u2013120\"\n\nLine pipe grades include API 5L B, X42, X52, X60, X65, X70, and X80.\n\nReferenced material specifications include ASTM A106, ASTM A53, ASTM A333, ASTM A671, ASTM A672, and API 5L.\n\nStainless steel grades include 304/304L, 316/316L, 321, 347, and 904/904L.\n\nDuplex material references include UNS S31803, S32205, and S32750/S32760."
+    },
+    "id": "pipes",
+    "slug": "pipes",
+    "category": "Pipes",
+    "description": "United Piping supplies a broad range of industrial steel pipes for process systems, energy facilities, infrastructure, and specialized engineering applications.\n\nThe range includes seamless and welded pipes across carbon steel, stainless steel, duplex, super duplex, and alloy material families.",
+    "image": "/assets/products.jpg",
+    "imageIndex": 0,
+    "materialFamilies": [
+      "Carbon Steel",
+      "Stainless Steel",
+      "Duplex Stainless Steel",
+      "Super Duplex Stainless Steel",
+      "High Alloy Steel"
+    ],
+    "grades": [
+      "API 5L B",
+      "X42",
+      "X52",
+      "X60",
+      "X65",
+      "X70",
+      "X80",
+      "304/304L",
+      "316/316L",
+      "321",
+      "347",
+      "904/904L",
+      "UNS S31803",
+      "S32205",
+      "S32750/S32760"
+    ],
+    "standards": [
+      "API 5L",
+      "ASTM A106",
+      "ASTM A53",
+      "ASTM A333",
+      "ASTM A671",
+      "ASTM A672",
+      "API 5L"
+    ],
+    "sizeRanges": [
+      "Carbon steel seamless: 1/2 inch\u201324 inches",
+      "Carbon steel welded: 2 inches\u2013120 inches"
+    ],
+    "pressureRatings": [],
+    "applications": [],
+    "technicalDocuments": [],
+    "relatedProducts": [
+      "flanges",
+      "fittings"
+    ],
+    "enquiryConfiguration": {
+      "fields": [
+        "material",
+        "grade",
+        "standard",
+        "size",
+        "quantity",
+        "notes"
+      ]
+    },
+    "headline": "Engineered Materials for Demanding Piping Systems."
+  },
+  {
+    "name": "Flanges",
+    "sections": {
+      "Material categories": "Carbon Steel Flanges\n\nAustenitic Stainless Steel Flanges\n\nDuplex Stainless Steel Flanges\n\nAlloy Steel Flanges",
+      "Technical examples": "Carbon steel material references:\n\nASTM A105\n\nASTM A350 LF2/LF6\n\nStainless and duplex references:\n\nASTM A182 F304/304L\n\nF316/316L\n\nF321\n\nF347\n\nF51\n\nF53\n\nF55\n\nThe product information includes various size ranges and references to ASME, EN, MSS, and AWWA requirements."
+    },
+    "id": "flanges",
+    "slug": "flanges",
+    "category": "Flanges",
+    "description": "Industrial flanges provide secure connections between pipes, valves, equipment, and other piping components.\n\nUnited Piping's portfolio covers carbon steel, stainless steel, duplex stainless steel, and alloy steel flange materials.",
+    "image": "/assets/products.jpg",
+    "imageIndex": 1,
+    "materialFamilies": [
+      "Carbon Steel",
+      "Stainless Steel",
+      "Duplex Stainless Steel",
+      "Low Alloy Steel"
+    ],
+    "grades": [],
+    "standards": [
+      "ASTM A105",
+      "ASTM A350 LF2/LF6",
+      "ASTM A182 F304/304L",
+      "ASME",
+      "EN",
+      "MSS",
+      "AWWA"
+    ],
+    "sizeRanges": [],
+    "pressureRatings": [],
+    "applications": [],
+    "technicalDocuments": [],
+    "relatedProducts": [
+      "fittings",
+      "valves"
+    ],
+    "enquiryConfiguration": {
+      "fields": [
+        "material",
+        "grade",
+        "standard",
+        "size",
+        "quantity",
+        "notes"
+      ]
+    },
+    "headline": "Precision Connections for Industrial Piping."
+  },
+  {
+    "name": "Fittings",
+    "sections": {
+      "Product families": "Carbon Steel Forged Fittings\n\nCarbon Steel Wrought Butt-Weld Fittings\n\nStainless Steel Forged Fittings\n\nStainless Steel Wrought Butt-Weld Fittings\n\nAlloy and Specialty Material Fittings",
+      "Technical references": "ASTM A105\n\nASTM A350\n\nASTM A182\n\nASTM A234\n\nASTM A420\n\nASTM A403\n\nASTM A860\n\nGrade-level details require engineering review before procurement."
+    },
+    "id": "fittings",
+    "slug": "fittings",
+    "category": "Fittings",
+    "description": "The fittings portfolio includes wrought and forged steel products for industrial piping systems requiring reliable connections, changes in direction, and system integration.",
+    "image": "/assets/products.jpg",
+    "imageIndex": 2,
+    "materialFamilies": [
+      "Carbon Steel",
+      "Stainless Steel",
+      "Low Alloy Steel",
+      "High Alloy Steel"
+    ],
+    "grades": [],
+    "standards": [
+      "ASTM A105",
+      "ASTM A350",
+      "ASTM A182",
+      "ASTM A234",
+      "ASTM A420",
+      "ASTM A403",
+      "ASTM A860"
+    ],
+    "sizeRanges": [],
+    "pressureRatings": [],
+    "applications": [],
+    "technicalDocuments": [],
+    "relatedProducts": [
+      "valves",
+      "bolts-nuts"
+    ],
+    "enquiryConfiguration": {
+      "fields": [
+        "material",
+        "grade",
+        "standard",
+        "size",
+        "quantity",
+        "notes"
+      ]
+    },
+    "headline": "Precision-Fit Components for Complex Piping Networks."
+  },
+  {
+    "name": "Valves",
+    "sections": {
+      "Valve families": "Gate Valves\n\n- Bolted bonnet gate valves\n- Pressure seal gate valves\n- Forged steel gate valves\n- Through-conduit and knife-edge gate valves\n- Power station gate valves\n\nGlobe Valves\n\n- Standard globe valves\n- Pressure seal globe valves\n- Forged steel globe valves\n\nCheck Valves\n\n- Swing check valves\n- Pressure seal check valves\n- Non-slam check valves\n- Tilting disc check valves\n- Forged steel check valves\n- Dual plate check valves\n- Wafer lift check valves\n\nBall Valves\n\n- Fully welded ball valves\n- Rising stem ball valves\n- Three-way ball valves\n- Floating ball valves\n- Side-entry trunnion-mounted ball valves\n- Top-entry trunnion-mounted ball valves\n\nButterfly Valves\n\n- Double-offset and triple-offset high-performance butterfly valves\n- Resilient seated butterfly valves\n\nPlug Valves\n\n- Pressure-balanced lubricated plug valves\n- Lubricated and non-lubricated plug valves\n- Double-block-and-bleed plug valves\n\nSpecial-Service Valves\n\n- Bellows-sealed valves\n- Cryogenic valves\n- Linear and angular control valves\n- Rotary control valves\n\nStrainers\n\n- Y-type strainers\n- Basket strainers\n- Duplex strainers",
+      "Technical data structure": "Each valve subtype should support:\n\nProduct name\n\nValve family\n\nPressure class\n\nNominal size range\n\nMaterial grades\n\nConnection type\n\nApplicable standards\n\nOperating temperature where available\n\nTechnical enquiry CTA\n\nDo not assume all material and size combinations are available."
+    },
+    "id": "valves",
+    "slug": "valves",
+    "category": "Valves",
+    "description": "United Piping's valve portfolio covers a wide range of industrial flow-control and isolation requirements.\n\nThe published range includes gate, globe, check, ball, butterfly, plug, special-service, and control valves, alongside industrial strainers.",
+    "image": "/assets/products.jpg",
+    "imageIndex": 3,
+    "materialFamilies": [],
+    "grades": [],
+    "standards": [],
+    "sizeRanges": [],
+    "pressureRatings": [],
+    "applications": [],
+    "technicalDocuments": [],
+    "relatedProducts": [
+      "bolts-nuts",
+      "gaskets"
+    ],
+    "enquiryConfiguration": {
+      "fields": [
+        "material",
+        "grade",
+        "standard",
+        "size",
+        "quantity",
+        "notes"
+      ]
+    },
+    "headline": "Engineered Flow Control for Critical Applications."
+  },
+  {
+    "name": "Bolts & Nuts",
+    "sections": {
+      "Technical examples": "Published size range: 1/8\"\u20133\"\n\nReferenced specifications:\n\nASTM A193 B7/B7M\n\nASTM A320 L7/L7M\n\nASTM A194 2H/2HM\n\nSelected stainless steel material grades"
+    },
+    "id": "bolts-nuts",
+    "slug": "bolts-nuts",
+    "category": "Bolts & Nuts",
+    "description": "Industrial bolting components support secure and reliable assembly of piping systems and equipment.\n\nThe portfolio includes stud bolts and associated nuts for industrial service conditions.",
+    "image": "/assets/products.jpg",
+    "imageIndex": 4,
+    "materialFamilies": [],
+    "grades": [],
+    "standards": [
+      "ASTM A193 B7/B7M",
+      "ASTM A320 L7/L7M",
+      "ASTM A194 2H/2HM"
+    ],
+    "sizeRanges": [
+      "1/8 inch\u20133 inches"
+    ],
+    "pressureRatings": [],
+    "applications": [],
+    "technicalDocuments": [],
+    "relatedProducts": [
+      "gaskets",
+      "expansion-joints"
+    ],
+    "enquiryConfiguration": {
+      "fields": [
+        "material",
+        "grade",
+        "standard",
+        "size",
+        "quantity",
+        "notes"
+      ]
+    },
+    "headline": "Strength Behind Every Connection."
+  },
+  {
+    "name": "Gaskets",
+    "sections": {
+      "Product families": "Spiral Wound Gaskets\n\nRing Joint Gaskets\n\nNon-Metallic Gaskets\n\nRubber Gaskets with Metal Inserts\n\nInsulation Kit Gaskets\n\nCamprofile Gaskets"
+    },
+    "id": "gaskets",
+    "slug": "gaskets",
+    "category": "Gaskets",
+    "description": "Industrial gaskets support sealing performance between connected components in piping and mechanical systems.",
+    "image": "/assets/products.jpg",
+    "imageIndex": 5,
+    "materialFamilies": [],
+    "grades": [],
+    "standards": [],
+    "sizeRanges": [],
+    "pressureRatings": [],
+    "applications": [],
+    "technicalDocuments": [],
+    "relatedProducts": [
+      "expansion-joints",
+      "dismantling-joints"
+    ],
+    "enquiryConfiguration": {
+      "fields": [
+        "material",
+        "grade",
+        "standard",
+        "size",
+        "quantity",
+        "notes"
+      ]
+    },
+    "headline": "Reliable Sealing for Industrial Connections."
+  },
+  {
+    "name": "Expansion Joints",
+    "sections": {
+      "Product types": "Rubber Expansion Joints\n\nMetallic Expansion Joints",
+      "Technical examples": "Published size range:\n\nDN40\u2013DN2500\n\nReferenced materials include ASTM A105, ASTM A36, and selected stainless steel grades.\n\nReferenced design requirements include EJMA, ASME, and AWWA standards."
+    },
+    "id": "expansion-joints",
+    "slug": "expansion-joints",
+    "category": "Expansion Joints",
+    "description": "Expansion joints accommodate movement, vibration, and mechanical stresses in piping installations.",
+    "image": "/assets/products.jpg",
+    "imageIndex": 6,
+    "materialFamilies": [],
+    "grades": [],
+    "standards": [
+      "ASTM A105",
+      "ASTM A36",
+      "EJMA",
+      "ASME",
+      "AWWA"
+    ],
+    "sizeRanges": [
+      "DN40\u2013DN2500"
+    ],
+    "pressureRatings": [],
+    "applications": [],
+    "technicalDocuments": [],
+    "relatedProducts": [
+      "dismantling-joints",
+      "pipes"
+    ],
+    "enquiryConfiguration": {
+      "fields": [
+        "material",
+        "grade",
+        "standard",
+        "size",
+        "quantity",
+        "notes"
+      ]
+    },
+    "headline": "Flexibility Engineered into Industrial Systems."
+  },
+  {
+    "name": "Dismantling Joints",
+    "sections": {
+      "Technical examples": "Published size range:\n\nDN40\u2013DN2500\n\nPublished longitudinal adjustment:\n\nUp to 100 mm\n\nReferenced materials include ASTM A105, ASTM A36, and IS2062."
+    },
+    "id": "dismantling-joints",
+    "slug": "dismantling-joints",
+    "category": "Dismantling Joints",
+    "description": "Dismantling joints are double-flanged components designed to provide longitudinal adjustment during installation and maintenance.\n\nThey support easier removal and servicing of valves, pumps, and meters.",
+    "image": "/assets/products.jpg",
+    "imageIndex": 7,
+    "materialFamilies": [],
+    "grades": [],
+    "standards": [
+      "ASTM A105",
+      "ASTM A36",
+      "IS2062"
+    ],
+    "sizeRanges": [
+      "DN40\u2013DN2500"
+    ],
+    "pressureRatings": [],
+    "applications": [],
+    "technicalDocuments": [],
+    "relatedProducts": [
+      "pipes",
+      "flanges"
+    ],
+    "enquiryConfiguration": {
+      "fields": [
+        "material",
+        "grade",
+        "standard",
+        "size",
+        "quantity",
+        "notes"
+      ]
+    },
+    "headline": "Designed for Easier Maintenance and System Adaptability."
+  }
+]

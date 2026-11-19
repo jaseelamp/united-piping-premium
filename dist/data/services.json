@@ -1,0 +1,39 @@
+[
+  {
+    "name": "Material Treatments",
+    "sections": {},
+    "id": "material-treatments",
+    "slug": "material-treatments",
+    "headline": "Material Preparation for Demanding Conditions.",
+    "description": "United Piping provides material treatment solutions intended to prepare and protect industrial piping materials for project-specific operating conditions.\n\nService requirements should be evaluated according to material type, technical specifications, and customer needs."
+  },
+  {
+    "name": "Inspection & Testing",
+    "sections": {
+      "Features": "Inspection coordination\n\nTesting coordination\n\nProduct quality monitoring\n\nTechnical verification\n\nDocumentation support"
+    },
+    "id": "inspection-testing",
+    "slug": "inspection-testing",
+    "headline": "Quality Verified Through Technical Oversight.",
+    "description": "United Piping describes a quality monitoring approach focused on aligning supplied materials with customer specifications.\n\nThe company coordinates inspection and testing requirements, including collaboration with qualified laboratories."
+  },
+  {
+    "name": "Logistics",
+    "sections": {},
+    "id": "logistics",
+    "slug": "logistics",
+    "headline": "Coordinated Supply. Controlled Movement.",
+    "description": "United Piping emphasizes material storage, stock management, cost control, and coordinated logistics as part of its supply services.\n\nThe objective is to improve visibility and support efficient material movement."
+  },
+  {
+    "name": "Document Management",
+    "sections": {
+      "Document types": "Project Quality Plans\n\nInspection and Test Plans\n\nManufacturing Procedures\n\nTesting Procedures\n\nWelding Procedure Specifications\n\nProcedure Qualification Records\n\nNon-Destructive Testing Reports\n\nMaterial Test Certificates\n\nQuality Control Dossiers",
+      "Referenced documentation standards": "DIN 50049\n\nEN 10204"
+    },
+    "id": "document-management",
+    "slug": "document-management",
+    "headline": "Technical Documentation That Supports Confidence.",
+    "description": "United Piping supports the preparation and coordination of technical documentation packages according to contractual and customer requirements."
+  }
+]

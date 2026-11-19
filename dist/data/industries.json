@@ -1,0 +1,40 @@
+[
+  {
+    "name": "Upstream & Offshore",
+    "sections": {
+      "Relevant materials": "Duplex and Super Duplex Steels\n\nSeamless and Welded Tubulars\n\nLine Pipes\n\nStructural Steel\n\nPlates\n\nConductor Pipes\n\nPiles"
+    },
+    "id": "upstream-offshore",
+    "slug": "upstream-offshore",
+    "headline": "Materials for Demanding Offshore Environments.",
+    "description": "Offshore energy projects require carefully specified materials for challenging operating environments.\n\nUnited Piping supports these applications through industrial piping products, structural materials, and technical sourcing expertise."
+  },
+  {
+    "name": "Power Generation & Renewable Energy",
+    "sections": {},
+    "id": "power-generation-renewable-energy",
+    "slug": "power-generation-renewable-energy",
+    "headline": "Supporting the Infrastructure Behind Energy.",
+    "description": "Power generation projects depend on reliable industrial materials and coordinated procurement.\n\nUnited Piping's published capabilities cover conventional and renewable energy applications, including hydropower and combined-cycle power generation."
+  },
+  {
+    "name": "Midstream & Downstream",
+    "sections": {
+      "Relevant products": "Pipes\n\nFittings\n\nFlanges\n\nValves\n\nBolts\n\nGaskets\n\nStrainers"
+    },
+    "id": "midstream-downstream",
+    "slug": "midstream-downstream",
+    "headline": "Connected Solutions for Process Industries.",
+    "description": "Oil and gas processing, refining, chemical, and petrochemical facilities depend on integrated piping components and material compatibility.\n\nUnited Piping supports these sectors through coordinated supply of pipes, fittings, flanges, valves, and related components."
+  },
+  {
+    "name": "Infrastructure, Building & Water",
+    "sections": {
+      "Application areas": "Air Conditioning Systems\n\nFire Water Lines\n\nChilled Water Systems\n\nAirports\n\nHospitals\n\nShopping Malls\n\nGreenhouses\n\nStadiums\n\nBridges\n\nSewage Treatment Plants\n\nDesalination Plants"
+    },
+    "id": "infrastructure-building-water",
+    "slug": "infrastructure-building-water",
+    "headline": "Industrial Materials for Essential Infrastructure.",
+    "description": "United Piping supports piping requirements across building services, public infrastructure, water treatment, and industrial facilities."
+  }
+]

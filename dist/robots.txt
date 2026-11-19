@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://united-piping-engineering.woollyfrost513.chatgpt.site/sitemap.xml
