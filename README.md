@@ -36,3 +36,17 @@ Backend responsibilities: validate all fields and allowed category IDs, enforce 
 Built-in imagegen produced `dist/assets/pipe-hero.jpg`, `products.jpg`, and `industries.jpg`. Prompts are recorded in `content/media-prompts.md`. The product/sector contact sheets are displayed with CSS positioning; source generated originals remain in the Codex generation directory, with the hero source also retained in `content/`.
 
 Bootstrap 5.3.3, GSAP 3.12.5, and ScrollTrigger are bundled locally with their source license headers. Manrope, Inter, and IBM Plex Mono are locally hosted font files from Google Fonts (SIL Open Font License). See the relevant upstream license terms before redistribution. The site uses semantic HTML, keyboard-operable tabs/navigation, visible focus, responsive tables, and reduced-motion handling. WCAG and Core Web Vitals certification is not claimed.
+
+## Industrial animation system
+
+`motion_components.py` supplies original SVG engineering drawings. `dist/assets/motion.js` and `motion.css` add the hero drafting rings, scroll-drawn product outlines, an interactive flange/gasket assembly on Home/Flanges/Gaskets, turbine rotation, process-flow effects, and metal highlights. The assembly supports exploded/connected states, blueprint rendering, and replay. Diagrams are conceptual, not dimensioned manufacturing drawings.
+
+Loops run only in visible sections; background tabs pause GSAP. Reduced-motion preferences switch to static presentation, and the persistent-in-session “Pause motion” control disables decorative movement. Manual assembly controls still work instantly when motion is disabled. No new animation libraries were added.
+
+## Industrial identity revision
+
+The site now uses locally hosted Barlow Condensed (headings) and Barlow (body), with IBM Plex Mono for technical labels. `industrial_components.py`, `industrial.css`, and `industrial.js` provide the drawing-sheet product explorer, integrated services sequence, and reference drawing viewer.
+
+The hero includes a 12-second, 1280×720 H.264 MP4 (about 1.1 MB), rendered as a camera-motion loop from the existing generated pipe image. It is **not live footage or a new 3D model**. `scripts/render-pipe-video.sh` records the reproducible FFmpeg command. The video loads on visibility, pauses off-screen/in background tabs, obeys the global motion switch, and uses the original still for reduced-motion or playback failure. The separate film control permits pausing only the banner.
+
+The inspection photo and flange drawing were supplied by the user. They are displayed as references and do not establish company personnel, facilities, product dimensions, pressure ratings, or verified specifications. Product CSV downloads are expressly brief-based starting summaries, not manufacturer datasheets. The supplied flange JPG is downloadable and labeled unverified. Engineering review remains necessary.

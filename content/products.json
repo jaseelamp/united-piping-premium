@@ -98,7 +98,13 @@
     "sizeRanges": [],
     "pressureRatings": [],
     "applications": [],
-    "technicalDocuments": [],
+    "technicalDocuments": [
+      {
+        "name": "Supplied flange drawing",
+        "url": "/assets/flange-drawing-reference.jpg",
+        "status": "JPG \u00b7 Supplied visual reference \u00b7 Dimensions and class unverified"
+      }
+    ],
     "relatedProducts": [
       "fittings",
       "valves"

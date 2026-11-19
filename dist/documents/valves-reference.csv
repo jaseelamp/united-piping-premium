@@ -1,0 +1,88 @@
+United Piping Solutions — brief-based starting reference,NOT AN APPROVED MANUFACTURER DATASHEET
+Product,Valves
+Review status,Engineering review required; combinations and availability are not confirmed
+description,"United Piping's valve portfolio covers a wide range of industrial flow-control and isolation requirements.
+
+The published range includes gate, globe, check, ball, butterfly, plug, special-service, and control valves, alongside industrial strainers."
+materialFamilies,To be confirmed
+grades,To be confirmed
+standards,To be confirmed
+sizeRanges,To be confirmed
+pressureRatings,To be confirmed
+Valve families,"Gate Valves
+
+- Bolted bonnet gate valves
+- Pressure seal gate valves
+- Forged steel gate valves
+- Through-conduit and knife-edge gate valves
+- Power station gate valves
+
+Globe Valves
+
+- Standard globe valves
+- Pressure seal globe valves
+- Forged steel globe valves
+
+Check Valves
+
+- Swing check valves
+- Pressure seal check valves
+- Non-slam check valves
+- Tilting disc check valves
+- Forged steel check valves
+- Dual plate check valves
+- Wafer lift check valves
+
+Ball Valves
+
+- Fully welded ball valves
+- Rising stem ball valves
+- Three-way ball valves
+- Floating ball valves
+- Side-entry trunnion-mounted ball valves
+- Top-entry trunnion-mounted ball valves
+
+Butterfly Valves
+
+- Double-offset and triple-offset high-performance butterfly valves
+- Resilient seated butterfly valves
+
+Plug Valves
+
+- Pressure-balanced lubricated plug valves
+- Lubricated and non-lubricated plug valves
+- Double-block-and-bleed plug valves
+
+Special-Service Valves
+
+- Bellows-sealed valves
+- Cryogenic valves
+- Linear and angular control valves
+- Rotary control valves
+
+Strainers
+
+- Y-type strainers
+- Basket strainers
+- Duplex strainers"
+Technical data structure,"Each valve subtype should support:
+
+Product name
+
+Valve family
+
+Pressure class
+
+Nominal size range
+
+Material grades
+
+Connection type
+
+Applicable standards
+
+Operating temperature where available
+
+Technical enquiry CTA
+
+Do not assume all material and size combinations are available."
