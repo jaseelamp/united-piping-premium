@@ -55,7 +55,7 @@ window.initIndustrialMotion=function(){
       const mm=gsap.matchMedia();
       mm.add('(min-width: 901px)',()=>{
         const hero=document.querySelector('.hero');
-        if(hero){gsap.fromTo('.hero-image',{scale:1.06},{scale:1,duration:9,ease:'power2.out'});gsap.to('.hero-engineering',{y:65,opacity:0,ease:'none',scrollTrigger:{trigger:hero,start:'top top',end:'bottom top',scrub:1}})}
+        if(hero?.querySelector('.hero-image')){gsap.fromTo('.hero-image',{scale:1.06},{scale:1,duration:9,ease:'power2.out'});gsap.to('.hero-engineering',{y:65,opacity:0,ease:'none',scrollTrigger:{trigger:hero,start:'top top',end:'bottom top',scrub:1}})}
         all('.story-image,.sector-photo').forEach(el=>gsap.fromTo(el,{clipPath:'inset(8% 0 0 0)'},{clipPath:'inset(0% 0 0 0)',duration:1.2,ease:'power3.out',scrollTrigger:{trigger:el,start:'top 90%',once:true}}));
         all('.connection-art').forEach(el=>gsap.to(el.children,{x:0,ease:'none',scrollTrigger:{trigger:el.parentElement,start:'top 90%',end:'top 35%',scrub:1}}));
       });
