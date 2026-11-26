@@ -1,5 +1,5 @@
 (()=>{
-  const esc=s=>String(s??'').replace(/united-piping-premium/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+  const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
   let product,index=0,view='drawing';
   window.renderProductExplorer=(p,i)=>{
     product=p;index=i;const panel=document.querySelector('#product-preview');if(!panel)return;

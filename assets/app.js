@@ -1,6 +1,6 @@
 'use strict';
 const $=(s,r=document)=>r.querySelector(s), $$=(s,r=document)=>[...r.querySelectorAll(s)];
-const escapeHTML=s=>String(s??'').replace(/united-piping-premium/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+const escapeHTML=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const fetchData=async name=>{const r=await fetch(`/united-piping-premium/data/${name}.json`);if(!r.ok)throw new Error(`Unable to load ${name}. Please reload.`);return r.json()};
 let toastTimer;function toast(message){const el=$('#toast');el.textContent=message;el.classList.add('show');clearTimeout(toastTimer);toastTimer=setTimeout(()=>el.classList.remove('show'),4000)}
 const storageKey='united-piping-enquiry-v1';
