@@ -1,0 +1,50 @@
+[
+  {
+    "name": "United Arab Emirates",
+    "type": "Headquarters",
+    "x": 56,
+    "y": 55
+  },
+  {
+    "name": "Saudi Arabia",
+    "type": "Geographic market",
+    "x": 51,
+    "y": 53
+  },
+  {
+    "name": "Oman",
+    "type": "Geographic market",
+    "x": 58,
+    "y": 59
+  },
+  {
+    "name": "Kuwait",
+    "type": "Geographic market",
+    "x": 53,
+    "y": 47
+  },
+  {
+    "name": "Bahrain",
+    "type": "Geographic market",
+    "x": 55,
+    "y": 51
+  },
+  {
+    "name": "Qatar",
+    "type": "Geographic market",
+    "x": 56,
+    "y": 53
+  },
+  {
+    "name": "China",
+    "type": "Geographic market",
+    "x": 76,
+    "y": 37
+  },
+  {
+    "name": "South Korea",
+    "type": "Geographic market",
+    "x": 85,
+    "y": 36
+  }
+]
