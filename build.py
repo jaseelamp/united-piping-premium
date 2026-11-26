@@ -55,7 +55,7 @@ for key,var in [('company','company'),('products','products'),('materials','mate
  if source.exists(): globals()[var]=json.loads(source.read_text())
  else: source.write_text(json.dumps(globals()[var],indent=2))
  save(key,globals()[var])
-save('config',{'rfqEndpoint':'','contactEndpoint':'','maxUploadMB':10,'legalApproved':False})
+save('config',{'rfqEndpoint':'','contactEndpoint':'','maxUploadMB':10,'legalApproved':False,'industrialFilmSrc':''})
 BASE='https://united-piping-engineering.woollyfrost513.chatgpt.site'
 allpages=[]
 def link(url,text,cls=''):return f'<a class="{cls}" href="{url}">{esc(text)}</a>'
